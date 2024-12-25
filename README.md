@@ -1,3 +1,5 @@
+Rock Paper Scissors Lizard Spock Game in Python
+
 Game rules
 - Scissors decapitate lizard
 - Scissors cuts paper
